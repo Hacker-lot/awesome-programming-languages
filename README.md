@@ -1,9 +1,9 @@
 # Awesome programming languages
-The list of **960** programming languages that you might be interested in.
+The list of **965** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
-## Related: 
+#elated: 
 - [Awesome Programming Languages articles](awesome-pl-articles.md);
 - [See also section](#see-also);
  
@@ -146,7 +146,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 - [β-Juliet](https://github.com/catseye/beta-Juliet) - β-Juliet is a fairly minimal event-oriented language. In β-Juliet, the world is modelled as a set of events which have no inherent organization or order. Each event can be denoted with a symbol, such as DominoFalls, CatMeows, or SunSets, or (in version 2.0) a string of symbols, such as Address Line Six Goes High or Greengrocer Falls Asleep on Subway. Each event can cause other events to occur — these are termed consequences of the event. In addition, this causation may be conditional, but the only condition that is possible to check is: given two events, which one happened more recently?
 <a name="C"></a>
-# C (77):
+# C (78):
 - [C2](https://github.com/c2lang/c2compiler) - The C2 project attempts to create a new language, strongly based on C. In a nutshell, the main differences with C are:
   - no more header files (too much typing)
   - no includes
@@ -223,6 +223,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Component Pascal](https://en.wikipedia.org/wiki/Component_Pascal) - Component Pascal is a programming language in the tradition of Niklaus Wirth's Pascal, Modula-2, Oberon and Oberon-2. It bears the name of the language Pascal and preserves its heritage, but is incompatible with Pascal. Instead, it is a minor variant and refinement of Oberon-2 with a more expressive type system and built-in string support.
 - [Concurnas](https://concurnas.com/) - Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems
 - [Cone](https://github.com/jondgoodwin/cone) - Cone is a fast, fit, friendly, and safe systems programming language. Ideal for complex, data-rich programs requiring responsive performance (e.g., 3D).
+- [Conflate](https://github.com/Hacker-lot/conflate) - An experimental polyglot language for composing Python, C++, Rust, Java, and Go in one file, with typed block boundaries and optional command-manifest integrations. [AI]
 - [Coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Core](https://codeberg.org/core-lang/core) - A modern, minimal programming language. In a world in which languages add features until they collapse under their own weight, build a language that is content with itself.
 - [Cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpile into POSIX sh
@@ -659,7 +660,7 @@ enables you to:
 - [Kernel](https://web.cs.wpi.edu/~jshutt/kernel.html) - Kernel is a conservative, Scheme-like dialect of Lisp in which everything is a first-class object.
 - [Kew](https://kew.sourceforge.net/) - Kew is a powerful but small object-oriented programming language that offers many advanced features, including proper closures, first-class variables, relations, continuations, exceptions, dynamic variables, security, transactions, persistence.... 
 - [Key](http://web.archive.org/web/20041012094909/http://www.webkool.net/wk/About/Key$QQjEPgoCBwsAAEYyAP0AAP$0) - a dynamic language that allowed both class abstraction and object description.
-- [Keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) - Keysharp is a fork and improvement of the abandoned IronAHK project, which itself was a C# re-write of the C++ AutoHotkey project. The intent is for Keysharp to run on Windows, Linux and eventually Mac. For now, only Windows is supported.
+- [Keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) - Keysharp is a fork and improvement of the abandoned IronAHK project, which itself was a Ce-write of the C++ AutoHotkey project. The intent is for Keysharp to run on Windows, Linux and eventually Mac. For now, only Windows is supported.
 - [Kin](https://github.com/kin-lang/kin) - Kin is a straightforward programming language created with the purpose of aiding Kinyarwanda speakers in easily learning programming.
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Kind](https://github.com/HigherOrderCO/Kind) - Kind is a pure functional programming language and proof assistant.
@@ -684,7 +685,7 @@ enables you to:
 - [KPHP](https://vkcom.github.io/kphp/) - KPHP takes your PHP source code and converts it to a C++ equivalent, then compiles the generated C++ code and runs it within an embedded HTTP server. You could call KPHP a transpiler, but we call it a compiler.
 - [Ksi Scheme](https://sourceforge.net/projects/ksi/) - Ksi is a portable, embeddable Scheme implementation written in C.
 <a name="L"></a>
-# L (74):
+# L (75):
 - [L](https://l-lang.org/) - L is a high-level, open-source, general-purpose and system programming language which emphasizes readability, simplicity, extensibility, conciseness and performance. The L compiler features native code generation through LLVM, and is fully documented in a literate programming style. The language and compiler are usable, but are under heavy development as new features are being implemented.
 - [L](https://web.archive.org/web/20181108232826/http://home.cc.gatech.edu/tony/61) - L is both a language and an operating environment, like Smalltalk. It is capability-secure and distributed, like E. The language is a derivative of lambda calculus, hence it is small, block-structured, dynamically-typed, and functional. State is implicitly threaded through all function calls and returns, allowing simulation of dynamic scope and side-effects. Each thread runs in its own transaction, upon completion its state changes are committed. Any concurrent threads that conflict are aborted and re-executed at a higher priority. Each commited state change is an event. Event handlers spawn new threads (repeating the cycle).
 - [L+](https://code.google.com/archive/p/lpcompiler/) - The language our compiler takes as input, called L+, supports most constructs from C (variables, branches, loops, functions, recursion and I/O) albeit with some limitations and some additions. The L+ compiler generates Java Bytecode. L+ programs can be run on any platform with a Java VM installed.
@@ -694,6 +695,7 @@ enables you to:
 - [Laby](https://sgimenez.github.io/laby/) - Your robot ant can be programmed in many languages: OCaml, Python, C, C++, Java, Ruby, Lua, JavaScript, Pascal, Perl, Scheme, Vala, Prolog. Experienced programmers may also add their own favorite language.
 - [Lahlang](https://lahlang.dev) - Lahlang is a fun, expressive programming language inspired by Singlish and Singaporean culture, designed for learning and experimentation.
 - [Lake](https://sr.ht/~lieks/lake/) - The Lake programming language: C but sweeter
+- [λanguage](https://github.com/Megapixel99/lambda-language) - λanguage is a dynamically typed functional language that compiles through CPS to JavaScript, packaged with lm, a low-level language sharing the same minimal syntax and targeting four independent backends: C, WebAssembly, ARM64 and a bytecode VM. A single program can be sent through all four backends and timed against them.
 - [Lang5](https://sourceforge.net/projects/lang5/) - A Perl based interpreter for a language which is a blend of Forth and APL. The power of lang5 stems from its arrays operations in conjunction with the underlying Forth programming paradigm of bottom up programming.
 - [language machine](https://languagemachine.sourceforge.net/) - The language machine is an efficient and usable toolkit for language and grammar. It aims to be directly and immediately useful, and it embodies a powerful model of language. This requires a paradigm shift but it comes with a diagram which explains how it works. In the documentation you will find numerous examples including the metalanguage compiler frontend and the rules that generate these pages. There is also a demonstration that the language machine can very directly represent and evaluate the lambda calculus, and an outline of its place in relation to theory.
 - [Language Processor ](https://sourceforge.net/projects/languageprocess/) - I did what any real geek would do; I have written a compiler compiler. It is called Language Processor. A software that you can feed in a language definition with its semantic and you get an object that can run your program in your defined language.
@@ -871,7 +873,7 @@ of the code.
 - [Myrddin](https://eigenstate.org/myrddin) - Myrddin is a programming language. It aims for control and simplicity. It features strong type checking, generics, type inference, closures, and traits. It aims to fit into a similar niche as C, but with fewer bullets in your feet. Myrddin does not aim to explore the forefront of type theory or compiler technology. It does not focus on guaranteeing perfect safety. It is satisfied to be a practical, small language.
 - [μC++](https://plg.uwaterloo.ca/~usystem/uC++.html) -  The μC++ project extends C++ with new constructs providing advanced control-flow including light-weight concurrency on shared-memory uni- and multi-processor computers running UNIX and Linux operating systems. μC++ accomplishes this by providing new kinds of classes: coroutines, which have independent execution states; tasks, which have their own threads; and monitors, which allow for safe communication among tasks. These new classes can take part in inheritance, overloading, and templates, just like other classes. As well, C++ exception handling is extended, allowing exceptions to propagate among coroutines and tasks. Additional capabilities include: clustering of tasks and processors, object-oriented non-blocking I/O for files and sockets, and support for real-time programming. True parallelism is achieved utilizing operating-system kernel-threads. μC++ clarifies and extends object-oriented concurrency providing generality and functionality that surpasses languages like Ada, Java, and C#.
 <a name="N"></a>
-# N (30):
+# N (31):
 - [NAAb](https://github.com/b-macker/NAAb) - NAAb is a polyglot programming language that integrates Python, JavaScript, Rust, C++, Go, C#, Ruby, PHP, Shell, Nim, Zig, and Julia through an innovative block system. Write the best language for each task in a single file with automatic variable flow between languages. Features a built-in LLM governance engine with 50+ checks, 12 stdlib modules, lambda expressions, pattern matching, and a recursive descent parser built on 15,000+ lines of C++17. [AI]
 - [Nasal](https://web.archive.org/web/20140626001245/http://www.plausible.org/nasal/) - Nasal: Not another scripting language!
   - Vectors, Hashes and Scalars (number/strings)
@@ -912,6 +914,7 @@ of the code.
 - [Nix](https://nixos.wiki/wiki/Nix_Expression_Language) - Expression language for the Nix package manager. The Nix expression language is a pure, lazy, functional language.
 - [Noja](https://github.com/cozis/Noja) - Noja is a high level language with dynamic typing inspired from CPython, which features an import system, type assertions, multiple return values and more!
 - [North-Hollywood Python](https://github.com/TheRealMichaelWang/NoHoPython) - A strongly-typed, memory-safe, compiled dialect of Python, that transpiles to human-readable C.
+- [NOVA](https://github.com/ieeecsopen/NOVA) - NOVA is a constraint-native research-preview language unifying object-capability security and row-typed effect systems: authority to touch the outside world is an unforgeable token passed explicitly, and a function's effects are part of its checked type signature, so a closure cannot silently launder captured capability into a context that expects a pure function.
 - [Nosica](http://nosicalanguage.free.fr/) - Nosica is an Object-Oriented language, with a syntax similar to Java or C++, and with advanced high level features such as a strong type system, automatic memory management, and global code optimisation. Nosica is developped in Java(gcj) and is GPLed. The compiler is not very usable yet even if you can write non trivial programs. For example, the Nosica standard library already contains generic containers like Vector, or Map. The compiler translates Nosica source code into C and calls gcc to compiles the result in an executable.
 - [notc](https://github.com/dbetz/notc) - This is a simple interpreter with c-like syntax.
 - [Nox](https://codeberg.org/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
@@ -936,7 +939,7 @@ The script has the following characteristics:
   - Large standard library provided by NumFu's python bindings
   - Minimal complexity by only having four types
 <a name="O"></a>
-# O (24):
+# O (25):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) - Oberon is a general-purpose programming language first published in 1987 by Niklaus Wirth and the latest member of the Wirthian family of ALGOL-like languages (Euler, ALGOL W, Pascal, Modula, and Modula-2).
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon+ is a general-purpose, procedural and object-oriented programming language in the tradition of Oberon-07 and Oberon-2. The most important features of Oberon+ are block structure, modularity, separate compilation, static typing with strong type checking, generic programming, garbage collection, and type extension with type-bound procedures.
@@ -960,6 +963,7 @@ The script has the following characteristics:
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](https://github.com/oilshell/oil) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
 - [Okta](https://github.com/mikelma/oktac) - Okta is a new open source, general-purpose programming language that, although it's still in its childhood, aims to provide a simple platform to create low level, efficient software.
+- [Oli-Nat](https://github.com/NateTheGrappler/OliNat-Programming-Language) - A statically-typed programming language with its own hand-written bytecode compiler and virtual machine, built in C from scratch with no external dependencies, including a custom garbage collector.
 - [One](https://github.com/One-Language/One) - It is an open source, self-hosted, bootstrapping system programming language which makes it easy to build reliable and efficient software. One is a programming language that makes it easy to build reliable, efficient and performant software. [system]
 - [Onyx](https://onyxlang.io/) - A data-oriented, expressive, and modern programming language
 - [OpenComal](https://www.josvisser.nl/opencomal/) - OpenComal is a portable and free implementation of the Comal programming language written by moi. Currently supported platforms are Unix, MsDos and Win32 (95, 98, NT, 2000, XP and whatever they come up with next :-) Comal is a crossover between Basic and Pascal, with the best features of both and none of the drawbacks of either.
@@ -1100,6 +1104,7 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [rpn](https://github.com/louisrubet/rpn) - rpn - Reverse Polish Notation CLI calculator. A math functional language using reverse (postfix) polish notation
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
+- [RydenScript](https://github.com/maiomcorp-oss/RydenScript) - A tag-based general-purpose language that compiles to PowerShell and web. Supports desktop GUI (Windows Forms), 2D/3D game engines, P2P networking, and system automation.   
 <a name="S"></a>
 # S (56):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
@@ -1229,13 +1234,14 @@ readable, so you can focus on problems rather than ceremony.
 - [Vortex](http://projectsweb.cs.washington.edu/research/projects/cecil/www/vortex.html) - Vortex is a language-independent optimizing compiler infrastructure for object-oriented and other high-level languages, written entirely in Cecil. It primarily operates as a whole-program optimizer, performing aggressive analyses and optimizations given the whole program. It has front-ends for Cecil, Diesel, Smalltalk, Java, C++, and Modula-3. These front-ends translate into the Vortex RTL intermediate language. Vortex produces either portable C++ code or SPARC assembly code.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies.
 <a name="W"></a>
-# W (14):
+# W (15):
 - [Wa](https://github.com/wa-lang/wa) - Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.
 - [Wak](https://sr.ht/~geb/wak/) - Stack-based text-processing language
 - [Wasp](https://github.com/wasp-lang/wasp) - Wasp (Web Application Specification) is a Rails-like framework for React, Node.js, and Prisma. Build your app in a day and deploy it with a single CLI command!
   - 🚀 Quick start: Due to its expressiveness, you can create and deploy a production-ready web app from scratch with very few lines of concise, consistent, declarative code.
   - 😌 No boilerplate: By abstracting away complex full-stack features, there is less boilerplate code. That means less code to maintain and understand! It also means easier upgrades.
   - 🔓 No lock-in: You can deploy the Wasp app anywhere you like. There is no lock-in into specific providers; you have full control over the code (and can actually check it out in .wasp/ dir if you are interested ).
+- [Wave](https://wave-lang.dev/) - A statically typed, compiled general-purpose programming language for building native software.
 - [Wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀.
 - [Well](https://github.com/wellang/well) - Well lang is somewhat functional kinda stack based language. This language includes your normal things like variables, mathamatics, loops, etc. It compiles directly to assembly (NASM).
 - [Wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
